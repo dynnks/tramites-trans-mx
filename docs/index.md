@@ -6,6 +6,24 @@ permalink: /
 
 ## 🩵🩷💛🤍💜🖤
 # Trámites Trans MX
-## 🩵🩷💛🤍💜🖤
 
-Bienvenidx a Trámites Trans MX: una guía hecha por y para personas trans binarias y no binarias. Aquí encontrarás la información y los enlaces para realizar tus trámites de reconocimiento de identidad de género y homologación de documentos en México, empezando por Registro Civil, RENAPO, INE y SAT, y creciendo hacia más instituciones y estados. Estás en un espacio hecho para acompañarte.
+**Una guía hecha por y para personas trans binarias y no binarias.**
+
+Aquí encontrarás la información y enlaces necesarios para realizar tu trámite de reconocimiento de identidad de género y la homologación de tus documentos en México.
+
+## Accesos rápidos
+
+<div class="grid-container">
+  <div class="grid-item">
+    <a href="{{ site.baseurl }}/ine" class="button button--primary button--pill">🪪 INE</a>
+  </div>
+  <div class="grid-item">
+    <a href="{{ site.baseurl }}/registro-civil" class="button button--primary button--pill">📜 Registro Civil</a>
+  </div>
+  <div class="grid-item">
+    <a href="{{ site.baseurl }}/sat" class="button button--primary button--pill">💼 SAT</a>
+  </div>
+  <div class="grid-item">
+    <a href="{{ site.baseurl }}/renapo" class="button button--primary button--pill">🌐 RENAPO</a>
+  </div>
+</div>

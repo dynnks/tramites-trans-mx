@@ -1,0 +1,24 @@
+# --- Identidad del sitio ---
+title: Trámites Trans MX
+description: Guía colaborativa para facilitar el acceso a la información sobre trámites de reconocimiento de identidad de género en México.
+lang: es-MX
+
+# --- Apariencia (TeXt Theme) ---
+remote_theme: kitian616/jekyll-TeXt-theme
+text_skin: dark  # Activa el modo oscuro
+highlight_theme: tomorrow-night  # Tema oscuro para bloques de código
+
+# --- Configuración técnica para GitHub Pages ---
+url: "https://dynnks.github.io"
+baseurl: "/tramites-trans-mx"
+
+# --- Plugins ---
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-seo-tag
+
+# --- Configuración de plugins ---
+relative_links:
+  enabled: true
+  collections: true

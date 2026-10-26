@@ -27,3 +27,5 @@ relative_links:
 
 # --- Buscador nativo ---
 search: true
+
+styles: custom

@@ -1,6 +1,6 @@
 ---
 title: Inicio
-layout: null
+layout: page
 permalink: /
 ---
 

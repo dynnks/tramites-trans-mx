@@ -1,0 +1,50 @@
+/* --- Colores Neón Trans y No Binaries --- */
+:root {
+  --trans-blue: #55CDFC;
+  --trans-pink: #F7A8B8;
+  --nb-yellow: #FCF434;
+  --nb-purple: #9C59D1;
+}
+
+/* Botones primarios (Azul Trans) */
+.button--primary {
+  background: var(--trans-blue) !important;
+  color: #000 !important;
+  font-weight: bold;
+  box-shadow: 0 0 10px rgba(85, 205, 252, 0.5);
+  border: none;
+}
+
+/* Botones secundarios (Rosa Trans) */
+.button--secondary {
+  background: var(--trans-pink) !important;
+  color: #000 !important;
+  font-weight: bold;
+}
+
+/* Títulos con un toque neón */
+h1, h2 {
+  color: var(--trans-blue) !important;
+  text-shadow: 0 0 5px rgba(85, 205, 252, 0.4);
+}
+
+h3 {
+  color: var(--nb-yellow) !important;
+}
+
+/* Enlaces en morado no binarie */
+a {
+  color: var(--nb-purple) !important;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: var(--trans-pink) !important;
+  text-shadow: 0 0 8px var(--trans-pink);
+}
+
+/* Separador de estados */
+.state-selector {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}

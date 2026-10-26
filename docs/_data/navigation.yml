@@ -1,0 +1,21 @@
+# Menú principal (Arriba)
+header:
+  - title: Inicio
+    url: /
+  - title: Comienza tu trámite
+    url: /comienza
+  - title: Ayuda
+    url: /ayuda
+  - title: Contribuir
+    url: /contribuir
+
+# Menú lateral (Izquierda) - El que tendrá los trámites
+docs:
+  - title: INE
+    url: /ine
+  - title: Registro Civil
+    url: /registro-civil
+  - title: SAT
+    url: /sat
+  - title: RENAPO
+    url: /renapo
